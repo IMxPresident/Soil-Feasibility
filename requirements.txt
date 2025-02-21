@@ -1,0 +1,12 @@
+streamlit
+rasterio
+pandas
+openpyxl
+numpy
+simplekml
+xlsxwriter
+io
+tempfile
+re
+zipfile36
+xmltodict
